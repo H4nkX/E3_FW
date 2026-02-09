@@ -9,7 +9,7 @@ app.use(express.json());
 // 企业微信 webhook 配置
 const webhooks = {
   default: {
-    url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=f9d8171b-5d6f-4be2-a094-3a4aa65b7f27'
+    url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=cc66636f-b437-4c46-bb0c-9706d07cf9f6'
   }
   // 可以在这里添加更多 webhook 配置
   // 例如：
